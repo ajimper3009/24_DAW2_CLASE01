@@ -7,4 +7,3 @@ def suma(a: int, b: int) -> int:
     """
     x = "no se usa"
     return a+ b
-
